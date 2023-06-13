@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Página de Login</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Login</h1>
+    <form>
+      <label for="username">Usuário:</label>
+      <input type="text" id="username" name="username" required>
+      <br>
+      <label for="password">Senha:</label>
+      <input type="password" id="password" name="password" required>
+      <br>
+      <input type="submit" value="Login">
+      <label for="cadastro" <p>  <strong>cadastro</strong>.</p>
+    </form>
+  </div>
+</body>
+</html>
