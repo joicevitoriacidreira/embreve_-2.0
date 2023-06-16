@@ -1,0 +1,44 @@
+body {
+  background: linear-gradient(to right, #ff8080, #5a35ff);
+}
+
+.m{
+  margin-bottom: 300px;
+}
+
+.container {
+  margin-top: 100px;
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 5px;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="password"] {
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
